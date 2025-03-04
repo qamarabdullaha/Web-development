@@ -1,4 +1,4 @@
-  # Progressive Web App (PWA) Resources
+ # Progressive Web App (PWA) Resources
 
 This repository serves as a collection of useful links and resources related to Progressive Web Apps (PWAs).
 
@@ -17,7 +17,6 @@ This repository serves as a collection of useful links and resources related to 
 - [MDN Web Docs on PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - [How to Create a Progressive Web App PWA Guide For Customers](https://www.scorchsoft.com/blog/how-to-create-progressive-web-app)
 
-
 ## 📖 Guides & Tutorials
 - [PWA Checklist](https://web.dev/pwa-checklist/)
 - [Building Your First PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/Your_first_PWA)
@@ -25,24 +24,19 @@ This repository serves as a collection of useful links and resources related to 
 - [Microsoft_Overview of Progressive Web Apps PWAs](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/)
 - [Get started with PWAs](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/#the-architecture-of-a-pwa)
 
-## 📺 Youtube 
+## 📺 Youtube
 
-
-
--[Introduction to PWAs [1 of 17] | PWA for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
--[PWA Webinar with Silvio](https://www.youtube.com/watch?v=scUx4Tbqe4g)
--[Google-Intro & Setup - Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh)
--[Progressive Web Apps (PWAs): Storage mechanisms and best practices](https://www.youtube.com/watch?v=nkI8QanTjLs)
--[Authentication for Progressive Web Apps - Progressive Web App Training](https://www.youtube.com/watch?v=BYkiCnBmgw4)
--[PWA Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7)
--[rogressive Web Application (PWA) Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmLVaEFAEdL9ToDNl78Y6S)
--[Progressive Web Apps (PWA) for Beginners by Microsoft Developer](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY)
--[7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs)
--[How to Build Your First Progressive Web App (PWA) — HTML, CSS & JavaScript Tutorial](https://www.youtube.com/watch?v=WbbAPfDVqfY)
--[PHPKonf 2019 - Ben Marks: PWA for PHP Developers](https://www.youtube.com/watch?v=6WA63sJVs9o)
--[]()
--[]()
-
+- [Introduction to PWAs [1 of 17] | PWA for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY) – A beginner-friendly introduction to Progressive Web Apps.
+- [PWA Webinar with Silvio](https://www.youtube.com/watch?v=scUx4Tbqe4g) – A webinar discussing PWA development best practices.
+- [Google-Intro & Setup - Progressive Web App Training](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh) – Google's official training on setting up PWAs.
+- [Progressive Web Apps (PWAs): Storage mechanisms and best practices](https://www.youtube.com/watch?v=nkI8QanTjLs) – Learn about storage strategies for PWAs.
+- [Authentication for Progressive Web Apps - Progressive Web App Training](https://www.youtube.com/watch?v=BYkiCnBmgw4) – Covers authentication techniques in PWAs.
+- [PWA Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7) – Step-by-step guide to building a PWA.
+- [Progressive Web Application (PWA) Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmLVaEFAEdL9ToDNl78Y6S) – Another beginner's tutorial with practical examples.
+- [Progressive Web Apps (PWA) for Beginners by Microsoft Developer](https://www.youtube.com/playlist?list=PLlrxD0HtieHjqO1pNqScMngrV7oFro-TY) – Microsoft's approach to PWA development.
+- [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs) – Highlights powerful but lesser-known web features useful for PWAs.
+- [How to Build Your First Progressive Web App (PWA) — HTML, CSS & JavaScript Tutorial](https://www.youtube.com/watch?v=WbbAPfDVqfY) – Hands-on tutorial using core web technologies.
+- [PHPKonf 2019 - Ben Marks: PWA for PHP Developers](https://www.youtube.com/watch?v=6WA63sJVs9o) – A PWA development talk targeted at PHP developers.
 
 ## 🛠 Tools & Frameworks
 - [Workbox (Google)](https://developer.chrome.com/docs/workbox/)
